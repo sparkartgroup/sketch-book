@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="160px" height="400px" viewBox="0 0 160 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Text Styles</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Typography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal">
+        <g id="Text-Styles" fill="#4E555A">
+            <text id="h6" font-size="14" line-spacing="21">
+                <tspan x="44" y="345">h6</tspan>
+            </text>
+            <text id="h5" font-size="18" line-spacing="27">
+                <tspan x="44" y="322">h5</tspan>
+            </text>
+            <text id="h4" font-size="24" line-spacing="36">
+                <tspan x="44" y="292">h4</tspan>
+            </text>
+            <text id="h3" font-size="36" line-spacing="54">
+                <tspan x="44" y="249">h3</tspan>
+            </text>
+            <text id="h2" font-size="48" line-spacing="72">
+                <tspan x="44" y="189">h2</tspan>
+            </text>
+            <text id="h1" font-size="64" line-spacing="96">
+                <tspan x="44" y="108">h1</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

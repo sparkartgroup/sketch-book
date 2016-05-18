@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{{title}}}</title>
+</head>
+<body>
+  <nav class="nav">
+    {{#each headings}}
+      <a class="nav__link--{{tag}}" href="#{{anchor}}">{{{text}}}</a>
+    {{/each}}
+  </nav>
+  <main class="main">
+    {{{body}}}
+  </main>
+</body>
+</html>

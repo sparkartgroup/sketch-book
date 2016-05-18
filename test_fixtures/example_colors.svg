@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="510px" height="110px" viewBox="0 0 510 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Palette</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Palette">
+            <rect id="blue400" fill="#2069B4" x="430" y="30" width="50" height="50" rx="37.5"></rect>
+            <rect id="blue700" fill="#293481" x="350" y="30" width="50" height="50" rx="37.5"></rect>
+            <rect id="red" fill="#BD370E" x="270" y="30" width="50" height="50" rx="37.5"></rect>
+            <rect id="Orange" fill="#CF6800" x="190" y="30" width="50" height="50" rx="37.5"></rect>
+            <rect id="Mustard-Yellow" fill="#CFA300" x="110" y="30" width="50" height="50" rx="37.5"></rect>
+            <rect id="green" fill="#22852C" x="30" y="30" width="50" height="50" rx="37.5"></rect>
+        </g>
+    </g>
+</svg>

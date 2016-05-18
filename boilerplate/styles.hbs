@@ -1,0 +1,9 @@
+<ul class="styles">
+  {{#each textStyles}}
+    <li>
+      <h4 class="styles__name" style="{{inlineStyles}}">{{name}}</h4>
+      <code class="styles__class">{{className}}</code>
+      <pre>{{{styles}}}</pre>
+    </li>
+  {{/each}}
+</ul>
